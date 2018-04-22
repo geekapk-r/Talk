@@ -8,4 +8,4 @@ GeekApk 的活动等会出现在 Projects 里, 一般社区的帮助也在这的
 
 一个没有代码也 ~~没有用~~ 的 repo 呢(
 
-对于成员加入, 新开活动, 请求管理权限协助的都可以来 [issue](https://github.com/geekapk-r/Talk/issues) 里说明问题, 最好要找到合适的标签打上, 方便我们分类问题
+对于成员加入, 新开活动, 请求管理权限协助的都可以来 [issue](https://github.com/geekapk-r/Talk/issues) 里说明问题, 最好要找到合适的标签打上(无法使用标签则打在标题上), 方便我们分类问题
