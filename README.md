@@ -1,2 +1,2 @@
 # Talk
-📋 Talk about the geekapk.org community
+📋 [Talk about](https://github.com/geekapk-r/Talk/issues) the [geekapk.org](https://geekapk.org) community
